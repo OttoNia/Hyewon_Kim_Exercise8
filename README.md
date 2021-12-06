@@ -1,2 +1,3 @@
 # Hyewon_Kim_Exercise8
- 
+----------------------------------------
+I still don't understand what Data Self-Portrait means...
